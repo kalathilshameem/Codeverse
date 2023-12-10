@@ -57,7 +57,7 @@ body {
     }
 
     .fake-button, .blue-hover:hover {
-        background-color: #5AF42;
+        background-color: rgba(59, 65, 59, 0.133);
         text-align: center;
         line-height: 3;
         border: 1px solid black;
