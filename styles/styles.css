@@ -26,6 +26,7 @@ body {
 
 .flex {
     display: flex;
+}
  
 
 /************* site-wide text styling *************/
@@ -234,6 +235,7 @@ body {
     height: 420px;
     display: flex;
     align-items: center;
+}
 
 
 
